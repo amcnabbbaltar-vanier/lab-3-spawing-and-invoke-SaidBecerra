@@ -3050,9 +3050,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ae4ce90648de554ab03efc5b8aee885, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 7744379041553121089, guid: b8532a02d72ca8c4e8660beddf6b8ad5, type: 3}
+  bulletPrefab: {fileID: 1207308307419230314, guid: 849642f17b5e96c41a14db2e75b094bc, type: 3}
   bulletSpawnPoint: {fileID: 782324717}
-  bulletMaxImpulse: 10
+  bulletMaxImpulse: 100
   maxChargeTime: 3
 --- !u!1 &1350182873
 GameObject:
